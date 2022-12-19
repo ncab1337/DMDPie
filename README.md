@@ -10,7 +10,7 @@
 
 
 	- What is DMDPie?
-	- Its a Discord mass messaging software that which goal is to fix the problems 
+	- Its a Discord mass messaging software which goal is to fix the problems 
 		that is caused by use of dmdgo/other softwares i.e. captchas, low avg, high price and so on
 	
 	- How can i get an acess? How much does it costs?
